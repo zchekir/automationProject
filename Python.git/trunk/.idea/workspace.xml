@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d7e0aa1-5360-4735-9bbc-571a4124ae69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n0fLKcn986C9ZKexsX1ScBjRC1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestData" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="hybridFramework" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="hybridFramework" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zchekir\PycharmProjects\hybridFramework\testCases" />
+      <recent name="C:\Users\zchekir\PycharmProjects\hybridFramework" />
+      <recent name="C:\Users\zchekir\PycharmProjects\hybridFramework\TestData" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zchekir\PycharmProjects\hybridFramework\TestData" />
+      <recent name="C:\Users\zchekir\PycharmProjects\hybridFramework\testCases" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="customLogger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hybridFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utilities" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\zchekir\PycharmProjects\hybridFramework\utilities\customLogger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.customLogger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d7e0aa1-5360-4735-9bbc-571a4124ae69" name="Default Changelist" comment="" />
+      <created>1610531871110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610531871110</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611602338733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="324" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-300.1920.1040/1920.-280.2560.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1611602338733" />
+    <state x="718" y="401" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1619465736876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="401" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@0.0.1920.1040" timestamp="1619465736876" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1619465828185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@0.0.1920.1040" timestamp="1619465828185" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@1920.-280.2560.1400" timestamp="1610976137367" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1619465828185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@0.0.1920.1040" timestamp="1619465828185" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@1920.-280.2560.1400" timestamp="1610976137366" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1619465828184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@0.0.1920.1040" timestamp="1619465828184" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@1920.-280.2560.1400" timestamp="1610976137366" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1619465828185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@0.0.1920.1040" timestamp="1619465828185" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@1920.-280.2560.1400" timestamp="1610976137366" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1611603365677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@0.0.1920.1040" timestamp="1611179235682" />
+    <state x="461" y="163" key="SettingsEditor/-1920.-300.1920.1040/1920.-280.2560.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1611603365677" />
+    <state x="733" y="391" key="com.intellij.ide.util.TipDialog" timestamp="1617061172070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="391" key="com.intellij.ide.util.TipDialog/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@0.0.1920.1040" timestamp="1617061172070" />
+    <state x="2897" y="246" key="com.intellij.ide.util.TipDialog/-1920.-300.1920.1040/0.0.1920.1040/1920.-280.2560.1400@1920.-280.2560.1400" timestamp="1611253244091" />
+    <state x="733" y="391" key="com.intellij.ide.util.TipDialog/-1920.-300.1920.1040/1920.-280.2560.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1611599033491" />
+    <state x="2897" y="246" key="com.intellij.ide.util.TipDialog/-1920.-300.1920.1040/1920.-280.2560.1400/0.0.1920.1040@1920.-280.2560.1400" timestamp="1611073886001" />
+    <state x="0" y="0" width="1936" height="1053" key="dock-window-1" timestamp="1611018294770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1936" height="1053" key="dock-window-1/-1920.-300.1920.1040/1920.-280.2560.1400/0.0.1920.1040@1920.-280.2560.1400" timestamp="1611018294770" />
+  </component>
+</project>

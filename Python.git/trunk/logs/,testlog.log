@@ -1,0 +1,26 @@
+2021-01-23 08:23:14,644 :INFO :  test_login_ddt : __Test_0002__ExcelTestData__Started
+2021-01-23 08:27:14,723 :INFO :  test_login_ddt : __Test_0002__ExcelTestData__Started
+2021-01-23 08:28:57,735 :INFO :  test_login_ddt : __Test_0002__ExcelTestData__Started
+2021-01-23 08:28:58,977 :INFO :  test_login_ddt : 3
+2021-01-23 08:29:07,461 :INFO :  test_login_ddt : Test__02_ExcelTestData__Pass
+2021-01-23 08:29:14,563 :INFO :  test_login_ddt : __Test__02__ExcelTestData__Fail__
+2021-01-23 08:29:17,145 :INFO :  test_login_ddt : TestFailed because one of the expected results failed
+2021-01-23 08:37:16,347 :INFO :  test_login_ddt : __Test_0002__ExcelTestData__Started
+2021-01-23 08:37:17,696 :INFO :  test_login_ddt : 3
+2021-01-23 08:37:23,348 :INFO :  test_login_ddt : Test__02_ExcelTestData__Pass
+2021-01-23 08:37:26,678 :INFO :  test_login_ddt : __Test__02__ExcelTestData__Fail__
+2021-01-23 08:38:59,953 :INFO :  test_login_ddt : __Test_0002__ExcelTestData__Started
+2021-01-23 08:39:01,316 :INFO :  test_login_ddt : 3
+2021-01-23 08:39:08,284 :INFO :  test_login_ddt : Test__02_ExcelTestData__Pass
+2021-01-23 08:39:11,654 :INFO :  test_login_ddt : __Test__02__ExcelTestData__Fail__
+2021-01-23 08:39:14,264 :INFO :  test_login_ddt : TestFailed because one of the expected results failed
+2021-01-23 08:48:26,606 :INFO :  test_login_ddt : __Test_0002__ExcelTestData__Started
+2021-01-23 08:48:27,818 :INFO :  test_login_ddt : 3
+2021-01-23 08:48:33,388 :INFO :  test_login_ddt : Test__02_ExcelTestData__Pass
+2021-01-23 08:48:36,608 :INFO :  test_login_ddt : __Test__02__ExcelTestData__Fail__
+2021-01-23 08:48:40,040 :INFO :  test_login_ddt : TestFailed because one of the expected results failed
+2021-01-23 08:49:41,760 :INFO :  test_login_ddt : __Test_0002__ExcelTestData__Started
+2021-01-23 08:49:42,901 :INFO :  test_login_ddt : 3
+2021-01-23 08:49:49,324 :INFO :  test_login_ddt : Test__02_ExcelTestData__Pass
+2021-01-23 08:49:52,237 :INFO :  test_login_ddt : __Test__02__ExcelTestData__Fail__
+2021-01-23 08:49:55,002 :INFO :  test_login_ddt : TestFailed because one of the expected results failed
